@@ -2470,7 +2470,7 @@
   },
   "semantic": {
     "brand": {
-      "value": "{color.mist.500}",
+      "value": "{color.mist.450}",
       "type": "color"
     }
   },
