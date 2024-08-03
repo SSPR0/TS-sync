@@ -59,8 +59,7 @@
         "500": {
           "value": "#0066ff",
           "type": "color",
-          "parent": "primitives/default",
-          "description": ""
+          "parent": "primitives/default"
         },
         "550": {
           "value": "#005fee",
@@ -2469,10 +2468,17 @@
       }
     }
   },
+  "semantic": {
+    "brand": {
+      "value": "{color.mist.500}",
+      "type": "color"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "primitives/default [theme]"
+      "primitives/default [theme]",
+      "semantic"
     ]
   }
 }
